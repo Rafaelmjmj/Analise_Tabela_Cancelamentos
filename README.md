@@ -32,11 +32,6 @@ Identificar padrões que influenciam o cancelamento e responder perguntas como:
 
 🛠️ Tecnologias
 Python | Pandas | Plotly | Jupyter Notebook
-📂 Estrutura do Projeto
-📁 churn-analysis
- ┣ 📄 cancelamentos.csv
- ┣ 📄 inicial.ipynb
- ┗ 📄 README.md
 📊 O que foi feito
 
 ✔️ Limpeza e tratamento de dados
